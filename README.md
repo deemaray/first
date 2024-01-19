@@ -10,5 +10,7 @@ here is a picture of my favourite teacher
 My favourite quote is
 > to be or not to be
 
-- 1 2 3
+- 1
+-  2
+-  3
   
